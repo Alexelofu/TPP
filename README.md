@@ -6,5 +6,6 @@ Modified code from Ken-Youens Clark repository on his book, Tiny Python Projects
 - [x] Chapter 2 : Crowsnest
 - [x] Chapter 3 : Picnic
 - [x] Chapter 4 : Jump The Five
-
+- [x] Chapter 5 : Howler
+- [x] Chapter 6 : Word Count (WC)
 
